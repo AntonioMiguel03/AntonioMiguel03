@@ -1,4 +1,4 @@
-### Olá a todos, sejam muito bem-vindos! 🖐🏼
+### Olá a todos, sejam muito bem-vindos! 🖐️🔗
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://antoniomiguel03.github.io/antoniomiguel.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-miguel-borges-correa-1a3340253/)
