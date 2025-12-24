@@ -6,7 +6,7 @@
 
 Meus repositórios de Projetos Pessoais
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![C#](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_C_Sharp)](https://github.com/AntonioMiguel03/Projetos_C_Sharp)
 
 
 ![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioMiguel03&show_icons=true&theme=dark)
