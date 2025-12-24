@@ -7,6 +7,7 @@
 Meus repositórios de Projetos Pessoais
 
 [![C#](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_C_Sharp)](https://github.com/AntonioMiguel03/Projetos_C_Sharp)
+[![Java](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Java)](https://github.com/AntonioMiguel03/Projetos_Java)
 
 
 ![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioMiguel03&show_icons=true&theme=dark)
