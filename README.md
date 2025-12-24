@@ -23,6 +23,8 @@ Meus repositórios de Projetos Pessoais
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMiguel03)](https://github.com/AntonioMiguel03/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMiguel03&stats_format=bytes)
+
 ## Tecnologias que eu desenvolvo
 
 <div style = "display: inline_block"><br/>
