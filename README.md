@@ -6,15 +6,15 @@
 
 Meus repositórios de Projetos Pessoais
 
-[![C#](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_C_Sharp)](https://github.com/AntonioMiguel03/Projetos_C_Sharp)
-[![Java](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Java)](https://github.com/AntonioMiguel03/Projetos_Java)
-[![HTML](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_HTML)](https://github.com/AntonioMiguel03/Projetos_HTML)
-[![CSS](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_CSS)](https://github.com/AntonioMiguel03/Projetos_CSS)
+[![C#](https://github.com/AntonioMiguel03/Projetos_C_Sharp)]
+[![Java](https://github.com/AntonioMiguel03/Projetos_Java)]
+[![HTML](https://github.com/AntonioMiguel03/Projetos_HTML)]
+[![CSS](https://github.com/AntonioMiguel03/Projetos_CSS)]
 
-[![JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_JavaScript)](https://github.com/AntonioMiguel03/Projetos_JavaScript)
-[![Python](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Python)](https://github.com/AntonioMiguel03/Projetos_Python)
-[![PHP](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_PHP)](https://github.com/AntonioMiguel03/Projetos_PHP)
-[![ReactJS](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_ReactJS)](https://github.com/AntonioMiguel03/Projetos_ReactJS)
+[![JavaScript](https://github.com/AntonioMiguel03/Projetos_JavaScript)]
+[![Python](https://github.com/AntonioMiguel03/Projetos_Python)]
+[![PHP](https://github.com/AntonioMiguel03/Projetos_PHP)]
+[![ReactJS](https://github.com/AntonioMiguel03/Projetos_ReactJS)]
 
 
 ![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioMiguel03&show_icons=true&theme=dark)
