@@ -16,7 +16,7 @@ Meus repositórios de Projetos Pessoais
 [![PHP](https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_PHP)](https://github.com/AntonioMiguel03/Projetos_PHP)
 [![ReactJS](https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_ReactJS)](https://github.com/AntonioMiguel03/Projetos_ReactJS)
 
-![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioMiguel03&show_icons=true&theme=dark)
+![Antonio GitHub stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel0&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMiguel03)](https://github.com/AntonioMiguel03/github-readme-stats)
 
