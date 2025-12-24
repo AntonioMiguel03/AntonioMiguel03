@@ -8,8 +8,10 @@ Meus repositórios de Projetos Pessoais
 
 [![C#](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_C_Sharp)](https://github.com/AntonioMiguel03/Projetos_C_Sharp)
 [![Java](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Java)](https://github.com/AntonioMiguel03/Projetos_Java)
-[![HTML](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_HTML)](https://github.com/AntonioMiguel03/Projetos_HTML)
-[![CSS](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_CSS)](https://github.com/AntonioMiguel03/Projetos_CSS)
+[![HTML](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_HTML&cache_seconds=86400)](https://github.com/AntonioMiguel03/Projetos_HTML)
+
+[![CSS](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_CSS&cache_seconds=86400)](https://github.com/AntonioMiguel03/Projetos_CSS)
+
 
 
 
