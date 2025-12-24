@@ -16,14 +16,10 @@ Meus repositórios de Projetos Pessoais
 [![PHP](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_PHP)](https://github.com/AntonioMiguel03/Projetos_PHP)
 [![ReactJS](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_ReactJS)](https://github.com/AntonioMiguel03/Projetos_ReactJS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMiguel03&repo=github-readme-stats)](https://github.com/AntonioMiguel03/github-readme-stats)
-
 
 ![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioMiguel03&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMiguel03)](https://github.com/AntonioMiguel03/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMiguel03&stats_format=bytes)
 
 ## Tecnologias que eu desenvolvo
 
