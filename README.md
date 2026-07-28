@@ -8,25 +8,15 @@
 <br>
 
 Meus repositórios de Projetos Pessoais
-<p>
-<a href="https://github.com/AntonioMiguel03/Projetos_C_Sharp">
-<img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_C_Sharp">
-</a>
+<nobr>
+  <a href="https://github.com/AntonioMiguel03/Projetos_C_Sharp">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_C_Sharp">
+  </a>
 
-<a href="https://github.com/AntonioMiguel03/Projetos_Java">
-<img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Java">
-</a>
-
-<br clear="left">
-
-<a href="https://github.com/AntonioMiguel03/Projetos_HTML">
-<img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_HTML&v=1">
-</a>
-
-<a href="https://github.com/AntonioMiguel03/Projetos_CSS">
-<img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_CSS">
-</a>
-</p>
+  <a href="https://github.com/AntonioMiguel03/Projetos_Java">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Java">
+  </a>
+</nobr>
 
 <br>
 
