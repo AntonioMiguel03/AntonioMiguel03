@@ -1,4 +1,4 @@
-<table border="0">
+<table style="border:none">
   <tr>
     <td align="center">
       <a href="https://portfolio-2026-two-sandy.vercel.app/">
