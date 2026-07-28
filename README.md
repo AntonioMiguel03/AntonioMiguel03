@@ -1,5 +1,5 @@
 <table style="border-style: none">
-  <tr>
+  <tr style="border-style: none">
     <td><img src="https://via.placeholder.com/150" alt="Image 1"></td>
     <td><img src="https://via.placeholder.com/150" alt="Image 2"></td>
     <td><img src="https://via.placeholder.com/150" alt="Image 3"></td>
