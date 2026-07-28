@@ -59,10 +59,6 @@ Meus repositórios de Projetos Pessoais
 
 <br><br><br><br><br><br><br><br><br><br>
 
-
-
-
-
 ## Tecnologias que eu desenvolvo
 <p>
   <img align="left" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
