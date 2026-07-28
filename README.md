@@ -1,5 +1,11 @@
-<p align="center">
-  <a href="https://vercel.app" style="display: inline-block !important; vertical-align: middle;"><img src="https://shields.io" alt="Portfolio" /></a>
-  <a href="https://linkedin.com" style="display: inline-block !important; vertical-align: middle; margin-left: 10px;"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="https://blogspot.com" style="display: inline-block !important; vertical-align: middle; margin-left: 10px;"><img src="https://shields.io" alt="Blog" /></a>
-</p>
+<ul style="list-style: none; padding: 0; margin: 0;">
+  <li style="display: inline; margin-right: 10px;">
+    <a href="https://vercel.app"><img src="https://shields.io" alt="Portfolio" style="display: inline;" /></a>
+  </li>
+  <li style="display: inline; margin-right: 10px;">
+    <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" style="display: inline;" /></a>
+  </li>
+  <li style="display: inline;">
+    <a href="https://blogspot.com"><img src="https://shields.io" alt="Blog" style="display: inline;" /></a>
+  </li>
+</ul>
