@@ -56,6 +56,12 @@ Meus repositórios de Projetos Pessoais
   </a>
 </p>
 
+<br><br><br><br><br><br><br>
+
+![Antonio GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AntonioMiguel03&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AntonioMiguel03)](https://github.com/AntonioMiguel03/github-readme-stats)
+
 
 <br><br><br><br><br><br><br>
 
@@ -70,3 +76,12 @@ Meus repositórios de Projetos Pessoais
   <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
+
+<br><br><br><br><br><br><br>
+
+Ciência e Tecnologia em primeiro lugar.
+
+
+Email: antoniomiguelborgscorrea@gmail.com
+
+Celular: +55 (15) 99604-0318
