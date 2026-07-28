@@ -19,7 +19,33 @@ Meus repositórios de Projetos Pessoais
     <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Java">
   </a>
 </p>
+
 <br><br><br><br><br><br>
+
+<p>
+  <a href="https://github.com/AntonioMiguel03/Projetos_HTML">
+    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_HTML&v=1">
+  </a>
+
+  <a href="https://github.com/AntonioMiguel03/Projetos_CSS">
+    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_CSS">
+  </a>
+</p>
+
+<br><br><br><br><br><br>
+
+<p>
+  <a href="https://github.com/AntonioMiguel03/Projetos_JavaScript">
+    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_JavaScript">
+  </a>
+
+  <a href="https://github.com/AntonioMiguel03/Projetos_Python">
+    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Python">
+  </a>
+</p>
+
+<br><br><br><br><br><br>
+
 <p>
   <a href="https://github.com/AntonioMiguel03/Projetos_PHP">
     <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_PHP">
