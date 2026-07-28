@@ -4,14 +4,14 @@
 <a href="https://astrolabworld.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </span>
 <table>
-  <tr>
-    <td style="border-color: transparent;">
+  <tr style="border-color: transparent;">
+    <td style="border: none;">
       ...
     </td>
-    <td style="border-color: transparent;">
+    <td style="border: none;">
       ...
     </td>
-    <td style="border-color: transparent;">
+    <td style="border: none;">
       ...
     </td>
   </tr>
