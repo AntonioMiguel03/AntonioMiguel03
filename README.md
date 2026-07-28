@@ -77,7 +77,7 @@ Meus repositórios de Projetos Pessoais
 
 <br><br>
 
-Ciência e Tecnologia em primeiro lugar.
+<p>Ciência e Tecnologia em primeiro lugar.</p>
 
 
 Email: antoniomiguelborgscorrea@gmail.com
