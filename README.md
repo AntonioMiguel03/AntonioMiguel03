@@ -77,9 +77,11 @@ Meus repositórios de Projetos Pessoais
 
 <br></br>
 
+<div>
 Ciência e Tecnologia em primeiro lugar.
 
 
 Email: antoniomiguelborgscorrea@gmail.com
 
 Celular: +55 (15) 99604-0318
+</div>
