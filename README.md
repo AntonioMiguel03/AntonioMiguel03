@@ -4,11 +4,11 @@
   <a href="https://astrolabworld.blogspot.com/">Blog</a>
 </p>
 
-<nobr>
-  <a href="https://portfolio-2026-two-sandy.vercel.app/"><img src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<p>
+  <a href="https://portfolio-2026-two-sandy.vercel.app/"><img align="left" src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ant%C3%B4nio-miguel-borges-correa-1a3340253/">LinkedIn</a>
   <a href="https://astrolabworld.blogspot.com/">Blog</a>
-<nobr>
+<p>
 
 ### Olá a todos, sejam muito bem-vindos! ✋🔗
 
