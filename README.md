@@ -63,7 +63,7 @@ Meus repositórios de Projetos Pessoais
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AntonioMiguel03)](https://github.com/AntonioMiguel03/github-readme-stats)
 
 
-<br><br><br><br><br><br><br>
+<br><br><br><br>
 
 ## Tecnologias que eu desenvolvo
 <p>
