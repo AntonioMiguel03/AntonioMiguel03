@@ -6,8 +6,8 @@
   <a href="https://astrolabworld.blogspot.com/"><img align="left" src = "https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 <p>
 <br>
-<h1> Tecnologias que eu desenvolvo</h1>
 
+## Tecnologias que eu desenvolvo
 <p>
   <img align="left" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
