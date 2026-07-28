@@ -28,7 +28,7 @@ Meus repositórios de Projetos Pessoais
   </a>
 
   <a href="https://github.com/AntonioMiguel03/Projetos_CSS">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_CSS">
+    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_CSS">
   </a>
 </p>
 
@@ -36,11 +36,11 @@ Meus repositórios de Projetos Pessoais
 
 <p>
   <a href="https://github.com/AntonioMiguel03/Projetos_JavaScript">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_JavaScript">
+    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_JavaScript">
   </a>
 
   <a href="https://github.com/AntonioMiguel03/Projetos_Python">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Python">
+    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Python">
   </a>
 </p>
 
@@ -48,11 +48,11 @@ Meus repositórios de Projetos Pessoais
 
 <p>
   <a href="https://github.com/AntonioMiguel03/Projetos_PHP">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_PHP">
+    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_PHP">
   </a>
 
   <a href="https://github.com/AntonioMiguel03/Projetos_ReactJS">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_ReactJS">
+    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_ReactJS">
   </a>
 </p>
 
