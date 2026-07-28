@@ -75,9 +75,9 @@ Meus repositórios de Projetos Pessoais
   <img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
-<br><br>
+<br><br><br>
 
-<p>Ciência e Tecnologia em primeiro lugar.</p>
+Ciência e Tecnologia em primeiro lugar.
 
 
 Email: antoniomiguelborgscorrea@gmail.com
