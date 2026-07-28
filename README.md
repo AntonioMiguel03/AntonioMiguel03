@@ -19,7 +19,7 @@ Meus repositórios de Projetos Pessoais
     <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Java">
   </a>
 </p>
-<br>
+<br><br>
 <p>
   <a href="https://github.com/AntonioMiguel03/Projetos_PHP">
     <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_PHP">
