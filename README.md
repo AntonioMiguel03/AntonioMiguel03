@@ -75,13 +75,12 @@ Meus repositórios de Projetos Pessoais
   <img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
-<br></br>
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
 
-<div>
 Ciência e Tecnologia em primeiro lugar.
 
 
 Email: antoniomiguelborgscorrea@gmail.com
 
 Celular: +55 (15) 99604-0318
-</div>
+
