@@ -8,15 +8,7 @@
 <br>
 
 Meus repositórios de Projetos Pessoais
-<nobr>
-  <a href="https://github.com/AntonioMiguel03/Projetos_C_Sharp">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_C_Sharp">
-  </a>
 
-  <a href="https://github.com/AntonioMiguel03/Projetos_Java">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Java">
-  </a>
-</nobr>
 
 
 
