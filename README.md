@@ -1,19 +1,10 @@
 ### Olá a todos, sejam muito bem-vindos! ✋🔗
 
 <!-- [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)] (https://antoniomiguel03.github.io/antoniomiguel.github.io/) -->
-<p align="left">
-  <a href="https://portfolio-2026-two-sandy.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-2026-two-sandy.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-miguel-borges-correa-1a3340253/)
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://astrolabworld.blogspot.com/)
 
-  <a href="https://www.linkedin.com/in/ant%C3%B4nio-miguel-borges-correa-1a3340253/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://astrolabworld.blogspot.com/">
-    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
-  </a>
-</p>
 Meus repositórios de Projetos Pessoais
 
 [![C#](https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_C_Sharp)](https://github.com/AntonioMiguel03/Projetos_C_Sharp)
