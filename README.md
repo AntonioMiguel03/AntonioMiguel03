@@ -6,16 +6,6 @@
       </a>
     </td>
 
-    <td style="border:0; padding:0;">
-      <a href="https://www.linkedin.com/in/ant%C3%B4nio-miguel-borges-correa-1a3340253/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-    </td>
-
-    <td style="border:0; padding:0;">
-      <a href="https://astrolabworld.blogspot.com/">
-        <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
-      </a>
-    </td>
+    
   </tr>
 </table>
