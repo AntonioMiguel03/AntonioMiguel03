@@ -1,3 +1,11 @@
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)
-![Blog](https://img.shields.io/badge/Blog-FF5722?logo=blogger)
+<p align="center">
+  <a href="https://portfolio-2026-two-sandy.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ant%C3%B4nio-miguel-borges-correa-1a3340253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://astrolabworld.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+  </a>
+</p>
