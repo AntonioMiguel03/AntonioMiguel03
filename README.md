@@ -62,7 +62,6 @@ Meus repositórios de Projetos Pessoais
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AntonioMiguel03)](https://github.com/AntonioMiguel03/github-readme-stats)
 
-<div>
 ## Tecnologias que eu desenvolvo
 <p>
   <img align="left" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -74,7 +73,7 @@ Meus repositórios de Projetos Pessoais
   <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
-</div>
+
 <br>
 
 Ciência e Tecnologia em primeiro lugar.
