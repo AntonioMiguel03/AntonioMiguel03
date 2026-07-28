@@ -3,3 +3,16 @@
 <a href="https://www.linkedin.com/in/ant%C3%B4nio-miguel-borges-correa-1a3340253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://astrolabworld.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </span>
+<table style="border:none;border-collapse:collapse;">
+  <tr style="border:none;">
+    <td style="border:none;padding:0;">
+      ...
+    </td>
+    <td style="border:none;padding:0;">
+      ...
+    </td>
+    <td style="border:none;padding:0;">
+      ...
+    </td>
+  </tr>
+</table>
