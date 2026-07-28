@@ -34,27 +34,7 @@ Meus repositórios de Projetos Pessoais
 
 <br>
 
-<p>
-  <a href="https://github.com/AntonioMiguel03/Projetos_JavaScript">
-    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_JavaScript">
-  </a>
 
-  <a href="https://github.com/AntonioMiguel03/Projetos_Python">
-    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Python">
-  </a>
-</p>
-
-<br>
-
-<p>
-  <a href="https://github.com/AntonioMiguel03/Projetos_PHP">
-    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_PHP">
-  </a>
-
-  <a href="https://github.com/AntonioMiguel03/Projetos_ReactJS">
-    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_ReactJS">
-  </a>
-</p>
 
 
 
