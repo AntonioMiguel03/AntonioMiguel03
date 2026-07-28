@@ -1,7 +1,7 @@
-<table style="background-color: red;">
-  <tr>
-    <td>
-      Teste de fundo vermelho
+<table style="border: none; background-color: red;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;">
+      Teste sem borda
     </td>
   </tr>
 </table>
