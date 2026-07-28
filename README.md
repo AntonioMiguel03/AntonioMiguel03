@@ -63,7 +63,7 @@ Meus repositórios de Projetos Pessoais
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AntonioMiguel03)](https://github.com/AntonioMiguel03/github-readme-stats)
 
 ## Tecnologias que eu desenvolvo
-<div>
+
 <p>
   <img align="left" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -75,13 +75,10 @@ Meus repositórios de Projetos Pessoais
   <img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
-<br><br>
+<div clear="left"></div>
 
 Ciência e Tecnologia em primeiro lugar.
-
 
 Email: antoniomiguelborgscorrea@gmail.com
 
 Celular: +55 (15) 99604-0318
-
-</div>
