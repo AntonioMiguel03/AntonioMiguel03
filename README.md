@@ -1,13 +1,10 @@
-<section markdown="1" style="display: flex;">
-
-<div class="my-block" markdown="1"> 
-## Is your company, department or team..."
-    
-* Waiting for solutions ? 
-</div>
-
-<div class="my-block" markdown="1">
-## Tip "How to be more effective "
-
-* You could do this and that
+<div style="display: flex; gap: 20px;">
+  <div>
+    <h3>Column 1</h3>
+    <p>Text or content for the first block.</p>
+  </div>
+  <div>
+    <h3>Column 2</h3>
+    <p>Text or content for the second block.</p>
+  </div>
 </div>
