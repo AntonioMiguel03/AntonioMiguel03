@@ -18,7 +18,7 @@ Meus repositórios de Projetos Pessoais
   </a>
 </nobr>
 
-<br>
+
 
 ## Tecnologias que eu desenvolvo
 <p>
