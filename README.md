@@ -76,6 +76,7 @@ Meus repositórios de Projetos Pessoais
 </p>
 
 <br clear="left">
+<br clear="left">
 
 Ciência e Tecnologia em primeiro lugar.
 
