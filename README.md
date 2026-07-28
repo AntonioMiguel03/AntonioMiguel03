@@ -7,6 +7,63 @@
 <p>
 <br>
 
+Meus repositórios de Projetos Pessoais
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/AntonioMiguel03/Projetos_C_Sharp">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_C_Sharp">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AntonioMiguel03/Projetos_Java">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Java">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/AntonioMiguel03/Projetos_HTML">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_HTML&v=1">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AntonioMiguel03/Projetos_CSS">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_CSS">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/AntonioMiguel03/Projetos_JavaScript">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_JavaScript">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AntonioMiguel03/Projetos_Python">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Python">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/AntonioMiguel03/Projetos_PHP">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_PHP">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AntonioMiguel03/Projetos_ReactJS">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_ReactJS">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ## Tecnologias que eu desenvolvo
 <p>
   <img align="left" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
