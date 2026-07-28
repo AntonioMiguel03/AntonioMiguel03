@@ -1,14 +1,1 @@
-<!-- Logado (Possui a classe flex que alinha de lado) -->
-<div class="flex-row-container">
-   <span class="badge">[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-2026-two-sandy.vercel.app/)</span>
-   <span class="badge">Badge 2</span>
-   <span class="badge">Badge 3</span>
-</div>
-
-
-
-<!-- Deslogado (Faltou a classe ou mudou para uma div comum) -->
-<div class="user-offline-box"> <!-- Se não tiver flexbox, vira bloco e empilha -->
-   <span class="badge">Badge 1</span>
-   <span class="badge">Badge 2</span>
-</div>
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-2026-two-sandy.vercel.app/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-miguel-borges-correa-1a3340253/)[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://astrolabworld.blogspot.com/)
