@@ -20,17 +20,7 @@ Meus repositórios de Projetos Pessoais
   </a>
 </p>
 
-<br><br>
 
-<p>
-  <a href="https://github.com/AntonioMiguel03/Projetos_HTML">
-    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_HTML&v=1">
-  </a>
-
-  <a href="https://github.com/AntonioMiguel03/Projetos_CSS">
-    <img align="left" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_CSS">
-  </a>
-</p>
 
 <br>
 
