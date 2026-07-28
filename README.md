@@ -20,7 +20,7 @@ Meus repositórios de Projetos Pessoais
   </a>
 </p>
 
-<br>
+<br><br>
 
 <p>
   <a href="https://github.com/AntonioMiguel03/Projetos_HTML">
