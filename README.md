@@ -1,18 +1,1 @@
-<style>
-  table {
-    border-spacing: 0;
-    width: 100%;
-  }
-  th, td {
-    padding: 8px;
-    border-bottom: 1px solid #ddd;
-  }
-  tr:nth-child(even) {
-    background-color: #f9f9f9;
-  }
-</style>
-
-| Header 1 | Header 2 |
-| --- | --- |
-| Row 1 | Data |
-| Row 2 | Data |
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-2026-two-sandy.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-miguel-borges-correa-1a3340253/) [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://astrolabworld.blogspot.com/)
