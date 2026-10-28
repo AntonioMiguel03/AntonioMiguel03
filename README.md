@@ -44,7 +44,7 @@ Meus repositórios de Projetos Pessoais
   </a>
 </p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ![Antonio GitHub stats](https://github-stats-extended.vercel.app/api?username=AntonioMiguel03&show_icons=true&theme=dark)
 
