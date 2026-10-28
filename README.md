@@ -64,9 +64,7 @@ Meus repositórios de Projetos Pessoais
   </tr>
 </table>
 
-<br><br><br><br><br><br><br>
-
-![Antonio GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AntonioMiguel03&show_icons=true&theme=dark)
+![Antonio GitHub stats](https://github-stats-extended.vercel.app/api?username=AntonioMiguel03&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AntonioMiguel03)](https://github.com/AntonioMiguel03/github-readme-stats)
 
