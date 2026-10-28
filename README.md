@@ -10,59 +10,44 @@
 Meus repositórios de Projetos Pessoais
 <br>
 
+Meus repositórios de Projetos Pessoais
+<br>
 
-### Meus repositórios de Projetos Pessoais
+<p>
+  <a href="https://github.com/AntonioMiguel03/Projetos_C_Sharp">
+    <img align="left" src="https://github-readme-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_C_Sharp">
+  </a>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/AntonioMiguel03/Projetos_C_Sharp">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_C_Sharp" alt="Projetos C Sharp">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AntonioMiguel03/Projetos_Java">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Java" alt="Projetos Java">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AntonioMiguel03/Projetos_HTML">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_HTML" alt="Projetos HTML">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AntonioMiguel03/Projetos_CSS">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_CSS" alt="Projetos CSS">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AntonioMiguel03/Projetos_JavaScript">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_JavaScript" alt="Projetos JavaScript">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AntonioMiguel03/Projetos_Python">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Python" alt="Projetos Python">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AntonioMiguel03/Projetos_PHP">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_PHP" alt="Projetos PHP">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AntonioMiguel03/Projetos_ReactJS">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_ReactJS" alt="Projetos ReactJS">
-      </a>
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/AntonioMiguel03/Projetos_Java">
+    <img align="left" src="https://github-readme-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Java">
+  </a>
+</p>
+
+<br><br><br><br><br><br>
+
+<p>
+  <a href="https://github.com/AntonioMiguel03/Projetos_HTML">
+    <img align="left" src="https://github-readme-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_HTML&v=1">
+  </a>
+
+  <a href="https://github.com/AntonioMiguel03/Projetos_CSS">
+    <img align="left" src="https://github-readme-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_CSS">
+  </a>
+</p>
+
+<br><br><br><br><br><br>
+
+<p>
+  <a href="https://github.com/AntonioMiguel03/Projetos_JavaScript">
+    <img align="left" src="https://github-readme-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_JavaScript">
+  </a>
+
+  <a href="https://github.com/AntonioMiguel03/Projetos_Python">
+    <img align="left" src="https://github-readme-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_Python">
+  </a>
+</p>
+
+<br><br><br><br><br><br>
 
 ![Antonio GitHub stats](https://github-stats-extended.vercel.app/api?username=AntonioMiguel03&show_icons=true&theme=dark)
 
