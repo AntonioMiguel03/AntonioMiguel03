@@ -10,9 +10,6 @@
 Meus repositórios de Projetos Pessoais
 <br>
 
-Meus repositórios de Projetos Pessoais
-<br>
-
 <p>
   <a href="https://github.com/AntonioMiguel03/Projetos_C_Sharp">
     <img align="left" src="https://github-readme-stats-extended.vercel.app/api/pin/?username=AntonioMiguel03&repo=Projetos_C_Sharp">
